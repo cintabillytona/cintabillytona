@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Cinta Billytona 👋
 
-<!--
-**cintabillytona/cintabillytona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Economics Graduate
+📊 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+🌱 Currently learning:
+- Microsoft Excel
+- SQL
+- Power BI
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I am passionate about transforming data into meaningful insights to support business and policy decisions.
+I am currently building my portfolio by working on data analytics projects using Excel, SQL, and Power BI.
+
+## Skills
+- Excel
+- SQL
+- Power BI
+- Statistics
+- Data Visualization
+
+## Current Goal
+Become a professional Data Analyst and continuously improve my analytical skills through real-world projects.
+
+---
+⭐ Thank you for visiting my GitHub profile!
